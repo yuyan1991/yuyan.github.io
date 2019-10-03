@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一个人
+一个好人
+一个好男人
+一个爱惜家人疼爱女友的好男人
 
-### More Information
+目前在香港学习生活，对IT技术有着浓厚的兴趣。业余爱好是唱歌（虽然唱得难听）
 
-A place to include any other types of information that you'd like to include about yourself.
+朝着财务自由的目标努力ing
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yuyan1991@gmail.com](mailto:yuyan1991@gmail.com)
