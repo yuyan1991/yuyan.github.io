@@ -2,6 +2,11 @@
 layout: page
 title: Resume
 permalink: /resume/
+email:
+    url: mailto:yuyan1991@gmail.com
+    text: yuyan1991@gmail.com
+phone:
+    text: +852-66041524
 ---
 
 # Ziqi **Huang**
