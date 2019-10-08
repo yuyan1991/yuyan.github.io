@@ -4,7 +4,7 @@ title: Ziqi's Resume
 permalink: /resume/
 email:
     url: mailto:yuyan1991@gmail.com
-    text: yuyan1991@gmail.com
+    text: yuyan1991@gmail.com (preferred)
 phone: +852-66041524
 ---
 
@@ -40,7 +40,7 @@ Guang Zhou, China
 
 ## Experience
 
-### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - `
+### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - Now`
 
 _Software Developer_<br>
 Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
