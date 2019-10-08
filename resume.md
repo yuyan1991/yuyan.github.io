@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Resume
+layout: cv
+title: Ziqi's Resume
 permalink: /resume/
 email:
     url: mailto:yuyan1991@gmail.com
