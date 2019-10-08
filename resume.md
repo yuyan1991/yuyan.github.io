@@ -22,19 +22,11 @@ Supported arguments:
 
 ## Education
 
-### **The Chinese University of Hong Kong** `2014.09 - 2015.07`
-
-```
-Hong Kong
-```
+### **The Chinese University of Hong Kong** `2014.09 - 2015.07 (Hong Kong)`
 
 - Master Degree in Computer Science & Engineering
 
-### **Sun Yat-sen University** `2010.09-2014.06`
-
-```
-Guang Zhou, China
-```
+### **Sun Yat-sen University** `2010.09-2014.06 (Guang Zhou, China)`
 
 - Bachelor Degree in Computer Science
 
