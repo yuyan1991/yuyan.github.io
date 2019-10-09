@@ -30,7 +30,8 @@ Supported arguments:
 * Redis
 * Docker
 * javascript
-* HTML,CSS
+* HTML
+* CSS
 * React
 * Python
 * C++
