@@ -40,7 +40,7 @@ Supported arguments:
 
 ### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - Now`
 
-_Software Developer_<br>
+_Analysis Programmer_<br>
 Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
 
 * [Faster Payment System](https://fps.hkicl.com.hk/eng/fps/index.php)(i.e FPS, 轉數快)
