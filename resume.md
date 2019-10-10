@@ -29,7 +29,7 @@ Supported arguments:
 * MongoDB
 * Redis
 * Docker
-* javascript
+* JavaScript
 * HTML
 * CSS
 * React
