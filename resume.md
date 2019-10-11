@@ -38,7 +38,7 @@ Supported arguments:
 
 ## Working Experience
 
-### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - Now`
+### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - Present`
 
 _Analysis Programmer_<br>
 Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
