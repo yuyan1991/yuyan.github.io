@@ -39,9 +39,30 @@ Supported arguments:
 
 ## Working Experience
 
-### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - Present`
+### China Construction Bank Asia (Protiviti) `2019.12 - Present`
 
-_Analysis Programmer_<br>
+_Senior Analyst Programmer_<br>
+1. Collaborate with the CCBA user to confirm the project requirement
+2. Develop and maintain P2-Gateway, STM and P2-OTP Project:
+    - Frontend: design UI for P2-OTP and STM
+    - Backend: add adapters in P2-Gateway and explore the RESTful API to ECPWEB project and STM project
+3. Assist CCBA users to perform UAT and PROD for ECPWEB project and STM project
+4. Collaborate with DBA team, TRM team, UNIX team and Change Control Team to build and deploy system for UAT and PROD
+5. Develop IPO Revamp Project:
+    - Frontend: design UI for IPO Pages with CCB’s P2 framework
+    - Backend: construct the IPO Revamp project with CCB’s P8 framework and explore the API to ECPWEB project
+
+*Projects*
+
+* ECPWEB
+* P2-OTP
+* STM
+* P2-Gateway
+* IPO Revamp
+
+### [Infinite Financial Solutions Ltd](https://www.ifshk.com) `2015.8 - 2019.11`
+
+_Analyst Programmer_<br>
 1. Develop and maintain FinTech system for [Shanghai Commercial Bank](https://www.shacombank.com.hk/)
 2. Code, environment setup and deploy for FinTech system.
 3. Collaborate with developers, designers, UX designers and project managers in an agile team building responsive, cross-browser compatible and scalable web apps.
